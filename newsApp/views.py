@@ -9,7 +9,7 @@ def index(request):
 
 def moviesinfo(request):
     head_msg = "latest movie news"
-    msg1 = "Stree movie crossed 100cr in two weeks made amazing progress"
+    msg1 = "Stree movie crossed 100cr in two weeks made amazing progress awsome achievement"
     msg2 = "Thug of Hindustan Amitabh bacchan poster released !! looking challanging"
     msg3 = "Robot 2.O teaser released on Aksahay Kumar Birthday got trolled"
     msg4 = "GOvinda Movie FRYDAY trailer realsed people liked it"
